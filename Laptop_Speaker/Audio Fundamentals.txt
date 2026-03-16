@@ -1,0 +1,41 @@
+What is sound?
+Mechanical vibrations cause air molecules in the medium to move back and forth, creating pressure waves, which are perceived by the human ear as sound.
+
+A vibrating object (speaker, string) pushes and pulls air molecules
+Air molecules form:
+Compression (high pressure)
+Rarefaction (low pressure)
+These pressure variations travel through air
+The ear detects these variations
+The brain interprets them as sound
+
+
+Fundamental and Harmonics:
+
+Fundamental Signal have energy level at one frequency and Harmonics is the multiple of fundamental frequency that is caused due to system nonlinearity.
+
+THD: THD quantify the unwanted harmonics added to the original signal. THD should less that <0.1 %
+
+Stereo balance :Stereo balance is achieved when the left and right audio channels have equal level (amplitude) and matched phase and timing (delay), resulting in a stable stereo balance
+
+Resonance Frequency : The frequency at which a speaker vibrates most efficiently with minimum input power is called the resonant frequency, denoted as Fs.
+
+Sound Pressure Level (SPL) indicates the loudness of sound and is a measure of sound pressure relative to a reference level. It is expressed in decibels (dB), based on sound pressure measured in pascals (Pa).
+
+Impedance is the opposition offered to alternating current (AC). In a loudspeaker, impedance becomes maximum at the resonant frequency because cone motion is maximum, generating a large back EMF in the voice coil, which opposes the applied current and controls the speaker motion.
+
+Dynamic range = Loudest clean sound − Quietest audible sound. Diffrence between two db levels.How the sounds travel in all db level
+CD audio (16-bit):
+Dynamic range = 96 dB
+Very clean music
+Cheap phone recording:
+Dynamic range ≈ 40–50 dB
+Background noise is clearly audible
+
+Signal-to-Noise Ratio (SNR) tells how strong the desired (original) signal is compared to the background noise.
+High SNR - clear sound, very little noise
+Low SNR - noisy sound, hiss is audible
+
+Phase describes the time alignment of a signal relative to another signal or a reference.
+Amplitude and frequency carry the audio information
+Phase affects how signals combine and how sound is perceived (imaging, clarity)
