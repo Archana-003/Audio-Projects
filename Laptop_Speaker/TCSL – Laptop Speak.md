@@ -112,3 +112,6 @@ The phase response of L and R channels should follow each other, and the LR phas
 
 The THD curve should remain flat after 1 kHz, indicating stable distortion performance.
 
+
+The Average SPL of R channel is less compare to L channel, becuase the length of thr R channel speaker is more than L channel.
+
